@@ -1,0 +1,12 @@
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\obj\Debug\Bai3.Form1.resources
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\bin\Debug\Bai3.exe.config
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\bin\Debug\Bai3.exe
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\bin\Debug\Bai3.pdb
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\bin\Debug\OpenPop.dll
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\obj\Debug\Bai3.csproj.Up2Date
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\obj\Debug\Bai3.exe
+E:\Lap Trinh Mang Can Ban\Lab5\Bai3\obj\Debug\Bai3.pdb
