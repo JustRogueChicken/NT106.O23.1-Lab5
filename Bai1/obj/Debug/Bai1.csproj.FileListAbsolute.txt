@@ -1,0 +1,9 @@
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\bin\Debug\Bai1.exe.config
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\bin\Debug\Bai1.exe
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\bin\Debug\Bai1.pdb
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\obj\Debug\Bai1.exe
+E:\Lap Trinh Mang Can Ban\Lab5\Bai1\obj\Debug\Bai1.pdb
